@@ -1,0 +1,17 @@
+/* #232324 - background colour
+#1FB0F5 - light blue
+#E5E5E5 - light grey
+#4147F0 - indygo
+*/
+
+body {
+    background-color: #232324;
+    color: white;
+}
+
+.oasis-btn--primary {
+    color: #232324;
+    background-color: #1FB0F5;
+    border-radius: 30px;
+    height: 36px;
+}
